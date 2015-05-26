@@ -7,7 +7,7 @@
     xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
-    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696"
     FontFamily="{StaticResource PhoneFontFamilyNormal}"
     FontSize="{StaticResource PhoneFontSizeNormal}"
     Foreground="{StaticResource PhoneForegroundBrush}"
@@ -17,29 +17,16 @@
     <!--LayoutRoot est la grille racine où tout le contenu de la page est placé-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <!--Contrôle Pivot-->
-        <controls:Pivot Title="GSB Fiche Frais">
-            <!--Élément un de tableau croisé dynamique-->
-            <controls:PivotItem Header="élément1">
-                <Grid/>
-            </controls:PivotItem>
-
-            <!--Élément deux de tableau croisé dynamique-->
-            <controls:PivotItem Header="élément2">
-                <Grid/>
-            </controls:PivotItem>
+        <controls:Pivot Title="GSB Fiche Frais" Name="pivotFiche">
         </controls:Pivot>
     </Grid>
 
     <!--Exemple de code illustrant l'utilisation d'ApplicationBar-->
-    <!--<phone:PhoneApplicationPage.ApplicationBar>
+    <phone:PhoneApplicationPage.ApplicationBar>
         <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
-            <shell:ApplicationBarIconButton x:Name="appbar_button1" IconUri="/Images/appbar_button1.png" Text="Bouton 1"/>
-            <shell:ApplicationBarIconButton x:Name="appbar_button2" IconUri="/Images/appbar_button2.png" Text="Bouton 2"/>
-            <shell:ApplicationBar.MenuItems>
-                <shell:ApplicationBarMenuItem x:Name="menuItem1" Text="ÉlémentMenu 1"/>
-                <shell:ApplicationBarMenuItem x:Name="menuItem2" Text="ÉlémentMenu 2"/>
-            </shell:ApplicationBar.MenuItems>
+            <shell:ApplicationBarIconButton x:Name="appbar_buttonadd" IconUri="Images/archive44.png" Text="Ajouter" Click="appbar_buttonadd_Click"/>
+            <shell:ApplicationBarIconButton x:Name="appbar_buttonedit" IconUri="Images/write15.png" Text="Editer" Click="appbar_buttonedit_Click"/>
         </shell:ApplicationBar>
-    </phone:PhoneApplicationPage.ApplicationBar>-->
+    </phone:PhoneApplicationPage.ApplicationBar>
     
 </phone:PhoneApplicationPage>

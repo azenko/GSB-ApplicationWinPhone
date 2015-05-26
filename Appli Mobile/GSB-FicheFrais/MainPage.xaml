@@ -29,8 +29,8 @@
         <!--ContentPanel - place additional content here-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,8,12,-8">
             <TextBlock Margin="24,29,0,0" TextWrapping="Wrap" VerticalAlignment="Top" HorizontalAlignment="Left" d:LayoutOverrides="HorizontalAlignment"><Run Text="Nom d'utilisateur"/><Run Text=" :"/></TextBlock>
-            <TextBox x:Name="username" Margin="202,8,8,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
-            <TextBlock HorizontalAlignment="Left" Margin="58,99,0,0" TextWrapping="Wrap" Text="Mot de passe :" VerticalAlignment="Top"/>
+            <TextBox x:Name="username" Margin="202,8,8,0" TextWrapping="Wrap" VerticalAlignment="Top" />
+            <TextBlock HorizontalAlignment="Left" Margin="58,99,0,0" TextWrapping="Wrap" Text="Mot de passe :" VerticalAlignment="Top" />
             <PasswordBox x:Name="password" Margin="202,76,8,0" VerticalAlignment="Top"/>
             <Button x:Name="connect_button" Content="Se Connecter" Margin="202,148,8,0" VerticalAlignment="Top" Click="connect_button_Click" />
         </Grid>

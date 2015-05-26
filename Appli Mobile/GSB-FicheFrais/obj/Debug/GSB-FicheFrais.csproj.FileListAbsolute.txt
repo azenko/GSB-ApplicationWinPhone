@@ -22,3 +22,6 @@ C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFr
 C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\Microsoft.Phone.Controls.dll
 C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\Microsoft.Phone.Controls.xml
 C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\obj\Debug\Fiche.g.i.cs
+C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\obj\Debug\FichedeFrais.g.i.cs
+C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\System.Threading.Tasks.WP71.dll
+C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\System.Threading.Tasks.WP71.pdb

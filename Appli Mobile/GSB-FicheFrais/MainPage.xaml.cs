@@ -18,7 +18,7 @@ namespace GSB_FicheFrais
 
     public partial class MainPage : PhoneApplicationPage
     {
-        public String theauthkey = "?auth_key=d4349b94516a530a74ecba09662fb225382fbed89d0dd141858d6ffceb1fde76";
+        public String theauthkey = "d4349b94516a530a74ecba09662fb225382fbed89d0dd141858d6ffceb1fde76";
 
         // Constructor
         public MainPage()
@@ -41,7 +41,7 @@ namespace GSB_FicheFrais
             var request = new RestRequest();
             request.RequestFormat = DataFormat.Json;
             request.Method = Method.GET;
-            request.Resource = "login/" + the_username + "/" + the_password + theauthkey;
+            request.Resource = "login/" + the_username + "/" + the_password + "/?auth_key=" + theauthkey;
 
             client.ExecuteAsync<LoginList>(request, (response)
             =>
@@ -61,7 +61,7 @@ namespace GSB_FicheFrais
 
                     if (code == 200)
                     {
-                        NavigationService.Navigate(new Uri("/Fiche.xaml?user=" + the_username, UriKind.Relative));
+                        NavigationService.Navigate(new Uri("/Fiche.xaml?user=" + the_username + "&authkey=" + theauthkey, UriKind.Relative));
                     }
                     else
                     {

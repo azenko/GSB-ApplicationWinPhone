@@ -1,15 +1,17 @@
-﻿<xapCache source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\GSB_FicheFrais.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="18/05/2015 16:59:44">
+﻿<xapCache source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\GSB_FicheFrais.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="26/05/2015 16:54:27">
   <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="28/04/2015 13:16:30" />
   <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Background.png" archivePath="Background.png" lastWriteTime="28/04/2015 13:18:28" />
   <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="28/04/2015 13:18:28" />
-  <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\obj\Debug\GSB-FicheFrais.dll" archivePath="GSB-FicheFrais.dll" lastWriteTime="18/05/2015 16:59:43" />
+  <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\obj\Debug\GSB-FicheFrais.dll" archivePath="GSB-FicheFrais.dll" lastWriteTime="26/05/2015 16:54:27" />
   <file source="C:\Program Files\Microsoft SDKs\Windows Phone\v7.1\Libraries\Silverlight\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="29/08/2011 22:49:08" />
   <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\packages\Newtonsoft.Json.6.0.3\lib\portable-net40+sl4+wp7+win8\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="18/05/2015 15:26:27" />
   <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\packages\RestSharp.104.0\lib\sl4-wp71\RestSharp.WindowsPhone.dll" archivePath="RestSharp.WindowsPhone.dll" lastWriteTime="18/05/2015 15:45:37" />
   <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\packages\Spring.Rest.1.1.1\lib\sl4-wp71\Spring.Rest.dll" archivePath="Spring.Rest.dll" lastWriteTime="18/05/2015 15:33:20" />
-  <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\App_Readme\Spring.Rest.txt" archivePath="App_Readme\Spring.Rest.txt" lastWriteTime="18/05/2015 15:33:21" />
+  <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\packages\System.Threading.Tasks.Unofficial.3.1\lib\sl4-wp71\System.Threading.Tasks.WP71.dll" archivePath="System.Threading.Tasks.WP71.dll" lastWriteTime="26/05/2015 10:04:04" />
+  <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Images\archive44.png" archivePath="Images\archive44.png" lastWriteTime="26/05/2015 16:27:13" />
+  <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Images\write15.png" archivePath="Images\write15.png" lastWriteTime="26/05/2015 16:27:13" />
   <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="28/04/2015 13:18:27" />
-  <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="18/05/2015 16:57:30" />
+  <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="26/05/2015 10:47:11" />
   <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="28/04/2015 13:18:28" />
   <file source="C:\Users\tpepsi\documents\visual studio 2010\Projects\GSB-FicheFrais\GSB-FicheFrais\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="28/04/2015 13:18:28" />
 </xapCache>
