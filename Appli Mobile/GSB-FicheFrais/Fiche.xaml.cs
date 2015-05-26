@@ -206,6 +206,12 @@ namespace GSB_FicheFrais
                             hfl.TheText = hfr.date + " - " + hfr.libelle + " - " + hfr.montant + " €";
                             SeulValide.Add(hfl);
                         }
+                        else
+                        {
+                            HorsForfaitList hfl = new HorsForfaitList();
+                            hfl.TheText = hfr.date + " - (REFUSER) " + hfr.libelle + " - " + hfr.montant + " €";
+                            SeulValide.Add(hfl);
+                        }
                     }
 
                     if (SeulValide.Count == 1)
